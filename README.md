@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swapfM
 - 👀 I’m interested in Python, Web development and Deep Learning
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on any Projects related to Python
+- 🌱 I’m currently learning Django Rest-Framework and ReactJS
+- 💞️ I’m looking to collaborate on any Projects related to Python, Tensorflow, ScikitLearn.
 - 📫 How to reach me singhswapnil507@gmail.com
 
 <!---
