@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-  ![Snake animation](https://github.com/swapfM/sawwesome/blob/main/naja-flow.svg)
+  ![Snake animation](https://github.com/swapfM/sawwesome/blob/main/naja-rocks-swapfM.svg)
