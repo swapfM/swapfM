@@ -8,6 +8,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swapfM&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+[![swapfM's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapfM)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 swapfM/swapfM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
