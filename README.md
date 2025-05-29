@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swapnil
-- 👀 I’m interested in Python, Web development.
-- 🌱 I’m currently learning Django Rest-Framework and ReactJS
-- 💞️ I’m looking to collaborate on any Projects related to Python, Django ,ReactJS
+- 👀 I’m interested in Software development.
+- 🌱 I’m currently learning NodeJS and NextJS
+- 💞️ I’m looking to collaborate on any Projects related to ReactJS , NextJS, NodeJS, Django
 - 📫 How to reach me singhswapnil507@gmail.com
 
 
