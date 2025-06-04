@@ -9,7 +9,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swapfM&theme=dark&hide_border=true)](https://git.io/streak-stats)
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapfM&size_weight=1&count_weight=.65&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapfM&hide=contribs,prs)
+![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapfM&hide=contribs)
 
 <!---
 swapfM/swapfM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
