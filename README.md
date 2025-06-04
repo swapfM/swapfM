@@ -10,6 +10,7 @@
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapfM&size_weight=1&count_weight=.65&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 [![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapfM)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swapfM)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
