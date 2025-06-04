@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swapfM&theme=dark&hide_border=true)](https://git.io/streak-stats)
 --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapfM&size_weight=0.5&count_weight=0.5&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapfM&size_weight=0.5&count_weight=0.5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 [![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapfM)](https://github.com/anuraghazra/github-readme-stats)
 
 
