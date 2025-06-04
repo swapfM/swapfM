@@ -4,11 +4,12 @@
 - 💞️ I’m looking to collaborate on any Projects related to ReactJS , NextJS, NodeJS, Django
 - 📫 How to reach me singhswapnil507@gmail.com
 
-
+<!---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swapfM&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![swapfM's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapfM)](https://github.com/anuraghazra/github-readme-stats)
+--->
+[![Swapnil's's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapfM)](https://github.com/anuraghazra/github-readme-stats)
+[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapfM)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
