@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swapnil
 - 👀 I’m interested in Software development.
-- 🌱 I’m currently learning NodeJS and NextJS
-- 💞️ I’m looking to collaborate on any Projects related to ReactJS , NextJS, NodeJS, Django
+- 🌱 I’m currently learning FastAPI and NextJS
+- 💞️ I’m looking to collaborate on any Projects related to ReactJS , FastAPI, Django, NextJS
 - 📫 How to reach me singhswapnil507@gmail.com
 
 <!---
